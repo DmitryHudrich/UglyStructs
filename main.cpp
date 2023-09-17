@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <vector>
-#include "vector.cpp"
+#include "DynamicArray/DynamicArray.cpp"
 
 int main() {
 	
